@@ -1,0 +1,56 @@
+2020-07-01 11:31:32  Mission 7,'NanoSat-1' CREATED by 1,admin. Description: 'NanoSat One'.
+2020-07-02 14:35:46  Subsystem 22,'Mission Analysis' IMPORTED to mission 7,'NanoSat-1' from Subsystem 8,'Mission Analysis'
+2020-07-02 14:35:46      Variable 22,27,'Parking orbit' IMPORTED to mission 7,'NanoSat-1'from subsystem 8,Mission Analysis
+2020-07-02 14:35:46          Variable 27,61,'height' IMPORTED to subsystem 22,'Mission Analysis'from Variable 12,13
+2020-07-02 14:35:46          Variable 27,62,'i' IMPORTED to subsystem 22,'Mission Analysis'from Variable 12,14
+2020-07-02 14:35:46      Variable 22,28,'Required orbit' IMPORTED to mission 7,'NanoSat-1'from subsystem 8,Mission Analysis
+2020-07-02 14:35:46          Variable 28,63,'height' IMPORTED to subsystem 22,'Mission Analysis'from Variable 13,15
+2020-07-02 14:35:46          Variable 28,64,'i' IMPORTED to subsystem 22,'Mission Analysis'from Variable 13,16
+2020-07-02 14:58:42  Subsystem 22 CHANGED USER to 2,admin2.
+2020-07-02 15:30:15  Variable 27,61,'height' REQUESTED DELETION by 2,admin2
+2020-07-03 09:06:54  Subsystem 22 CHANGED USER to 1,admin.
+2020-07-03 10:43:51  Element 29,'Impulse 1' CREATED by 1,admin
+2020-07-03 10:44:25  Variable 29,65,'ΔV' CREATED by 1,admin. Value: 12
+2020-07-03 10:50:34  Variable 29,65,'delta_V' EDITED by 1,admin
+2020-07-04 09:41:47  Subsystem 22,'Mission Analysis' DELETED by manager.
+2020-07-04 09:41:53  Subsystem 23,'Mission Analysis' IMPORTED to mission 7,'NanoSat-1' from Subsystem 8,'Mission Analysis'
+2020-07-04 09:41:53      Variable 23,30,'Parking orbit' IMPORTED to mission 7,'NanoSat-1'from subsystem 8,Mission Analysis
+2020-07-04 09:41:53          Variable 30,66,'height' IMPORTED to subsystem 23,'Mission Analysis'from Variable 12,13
+2020-07-04 09:41:53          Variable 30,67,'i' IMPORTED to subsystem 23,'Mission Analysis'from Variable 12,14
+2020-07-04 09:41:53      Variable 23,31,'Required orbit' IMPORTED to mission 7,'NanoSat-1'from subsystem 8,Mission Analysis
+2020-07-04 09:41:53          Variable 31,68,'height' IMPORTED to subsystem 23,'Mission Analysis'from Variable 13,15
+2020-07-04 09:41:53          Variable 31,69,'i' IMPORTED to subsystem 23,'Mission Analysis'from Variable 13,16
+2020-07-04 10:01:06  Subsystem 24,'Propulsion' IMPORTED to mission 7,'NanoSat-1' from Subsystem 13,'Propulsion'
+2020-07-04 10:01:30  Element 32,'Ionic engine' IMPORTED to subsystem 24,'Propulsion' from Element 17,'Ionic engine'
+2020-07-04 10:01:30  Variable 32,70,'Dv_max in manoeuvre' IMPORTED to subsystem 24,'Propulsion'from Variable 17,25
+2020-07-04 10:02:42  Element 33,'Impulse 1' IMPORTED to subsystem 23,'Mission Analysis' from Element 29,'Impulse 1'
+2020-07-04 10:02:42  Variable 33,71,'delta_V' IMPORTED to subsystem 23,'Mission Analysis'from Variable 29,65
+2020-07-04 10:02:55  Element 34,'Atmosphere' IMPORTED to subsystem 23,'Mission Analysis' from Element 19,'Atmosphere'
+2020-07-04 10:02:55  Variable 34,72,'Ballistic coef' IMPORTED to subsystem 23,'Mission Analysis'from Variable 19,31
+2020-07-04 10:02:55  Element 35,'Deviations parameter' IMPORTED to subsystem 23,'Mission Analysis' from Element 21,'Deviations parameter'
+2020-07-04 10:02:55  Variable 35,73,'a' IMPORTED to subsystem 23,'Mission Analysis'from Variable 21,33
+2020-07-04 10:02:55  Variable 35,74,'e' IMPORTED to subsystem 23,'Mission Analysis'from Variable 21,34
+2020-07-04 10:02:55  Variable 35,75,'i' IMPORTED to subsystem 23,'Mission Analysis'from Variable 21,35
+2020-07-04 10:02:55  Variable 35,76,'w' IMPORTED to subsystem 23,'Mission Analysis'from Variable 21,36
+2020-07-04 10:02:55  Variable 35,77,'omega' IMPORTED to subsystem 23,'Mission Analysis'from Variable 21,37
+2020-07-04 10:03:07  Variable 34,72,'Ballistic coef' REQUESTED DELETION by 1,admin
+2020-07-04 10:03:12  Element 34,'Atmosphere' REQUESTED DELETION by 1,admin
+2020-07-04 10:03:15  Element 35,'Deviations parameter' REQUESTED DELETION by 1,admin
+2020-07-04 10:03:30  Element 34 and contained variables DELETED by 1,admin.
+2020-07-04 10:03:34  Element 35 and contained variables DELETED by 1,admin.
+2020-07-04 10:15:24  Element 33,'Impulse 1' EDITED by 1,admin
+2020-07-04 10:15:29  Element 33,'Impulse 2' EDITED by 1,admin
+2020-07-04 10:15:59  Variable 33,71,'delta_V' EDITED by 1,admin
+2020-07-04 10:16:05  Variable 33,71,'delta_V' EDITED by 1,admin
+2020-07-04 10:16:09  Variable 33,71,'delta_V' EDITED by 1,admin
+2020-07-04 11:34:10  Variable 31,68,'height' value UPDATED by 1,admin. Value: 36100
+2020-07-04 11:34:14  Variable 31,68,'height' value UPDATED by 1,admin. Value: 36150
+2020-07-04 11:34:20  Variable 31,68,'height' value UPDATED by 1,admin. Value: 36160
+2020-07-04 11:34:30  Variable 31,68,'height' value UPDATED by 1,admin. Value: 35000
+2020-07-04 11:34:33  Variable 31,68,'height' value UPDATED by 1,admin. Value: 35900
+2020-07-04 11:34:45  Variable 31,68,'height' value UPDATED by 1,admin. Value: 35850
+2020-07-04 11:34:55  Variable 31,68,'height' value UPDATED by 1,admin. Value: 35910
+2020-07-04 11:55:15  Variable 32,70,'Dv_max in manoeuvre' REQUESTED DELETION by 1,admin
+2020-07-04 11:55:22  Element 32,'Ionic engine' REQUESTED DELETION by 1,admin
+2020-07-04 11:55:25  Variable 32,70,'Dv_max in manoeuvre' REQUESTED DELETION by 1,admin
+2020-07-04 11:55:28  Element 32,'Ionic engine' CANCEL DELETION REQUEST by 1,admin

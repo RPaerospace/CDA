@@ -1,0 +1,26 @@
+2020-07-18 11:49:37  Mission 10,'Mission 1' CREATED by 3,user1. Description: 'Description.
+'.
+2020-07-18 11:49:58  Subsystem 29,'Mission analysis' CREATED for 3,user1. Description: ''.
+2020-07-18 11:50:30  Element 46,'Atmosphere' IMPORTED to subsystem 29,'Mission analysis' from Element 19,'Atmosphere'
+2020-07-18 11:50:30  Variable 46,94,'Ballistic coef' IMPORTED to subsystem 29,'Mission analysis'from Variable 19,31
+2020-07-18 11:50:30  Element 47,'Deviations parameter' IMPORTED to subsystem 29,'Mission analysis' from Element 21,'Deviations parameter'
+2020-07-18 11:50:30  Variable 47,95,'a' IMPORTED to subsystem 29,'Mission analysis'from Variable 21,33
+2020-07-18 11:50:30  Variable 47,96,'e' IMPORTED to subsystem 29,'Mission analysis'from Variable 21,34
+2020-07-18 11:50:30  Variable 47,97,'i' IMPORTED to subsystem 29,'Mission analysis'from Variable 21,35
+2020-07-18 11:50:30  Variable 47,98,'w' IMPORTED to subsystem 29,'Mission analysis'from Variable 21,36
+2020-07-18 11:50:30  Variable 47,99,'omega' IMPORTED to subsystem 29,'Mission analysis'from Variable 21,37
+2020-07-18 11:50:31  Element 48,'Parking Orbit' IMPORTED to subsystem 29,'Mission analysis' from Element 36,'Parking Orbit'
+2020-07-18 11:50:31  Variable 48,100,'h' IMPORTED to subsystem 29,'Mission analysis'from Variable 36,78
+2020-07-18 11:50:31  Variable 48,101,'i' IMPORTED to subsystem 29,'Mission analysis'from Variable 36,80
+2020-07-18 11:50:31  Element 49,'GTO' IMPORTED to subsystem 29,'Mission analysis' from Element 37,'GTO'
+2020-07-18 11:50:31  Variable 49,102,'a' IMPORTED to subsystem 29,'Mission analysis'from Variable 37,79
+2020-07-18 11:51:48  Subsystem 30,'Propulsion' IMPORTED to mission 10,'Mission 1' from Subsystem 18,'Propulsion'
+2020-07-18 11:51:48      Element 30,50,'Parameters' IMPORTED to mission 10,'Mission 1'from subsystem 18,Propulsion
+2020-07-18 11:51:48          Variable 50,103,'Fuel mass' IMPORTED to subsystem 30,'Propulsion'from Variable 16,21
+2020-07-18 11:51:48          Variable 50,104,'Total Delta_V' IMPORTED to subsystem 30,'Propulsion'from Variable 16,22
+2020-07-18 11:51:48      Element 30,51,'Ionic engine' IMPORTED to mission 10,'Mission 1'from subsystem 18,Propulsion
+2020-07-18 11:51:48          Variable 51,105,'Dv_max in manoeuvre' IMPORTED to subsystem 30,'Propulsion'from Variable 17,25
+2020-07-18 13:20:29  Subsystem 31,'asd' CREATED for 1,admin. Description: ''.
+2020-07-18 13:23:45  Subsystem 31,'asd' DELETED by manager.
+2020-07-18 13:23:47  Subsystem 30,'Propulsion' DELETED by manager.
+2020-07-18 13:23:49  Subsystem 29,'Mission analysis' DELETED by manager.

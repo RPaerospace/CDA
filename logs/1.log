@@ -1,0 +1,18 @@
+2020-06-19 14:26:43  Element 5,'Parking orbit' REQUESTED DELETION by 1,admin
+2020-06-19 14:26:47  Element 6,'Final orbit' REQUESTED DELETION by 1,admin
+2020-06-19 14:26:51  Element 7,'Parking orbit' REQUESTED DELETION by 1,admin
+2020-06-19 14:26:57  Element 5 and contained variables DELETED by 1,admin.
+2020-06-19 14:27:03  Element 6 and contained variables DELETED by 1,admin.
+2020-06-19 14:27:06  Element 7 and contained variables DELETED by 1,admin.
+2020-06-19 14:31:43  Element 17,'Parking orbit' COPIED from element 1 by 1,admin
+2020-06-19 14:31:43  Variable 17,68'Height' COPIED from other element by 1,admin. Value: 5000
+2020-06-19 14:31:43  Variable 17,69'e' COPIED from other element by 1,admin. Value: 0.003
+2020-06-19 14:31:43  Variable 17,70'i' COPIED from other element by 1,admin. Value: 32
+2020-06-19 14:31:43  Variable 17,71'time' COPIED from other element by 1,admin. Value: 75204000000
+2020-06-19 14:31:43  Variable 17,72'Timelapse' COPIED from other element by 1,admin. Value: 10000
+2020-06-19 14:31:43  Variable 17,73'cng' COPIED from other element by 1,admin. Value: 10
+2020-06-19 14:31:47  Element 18,'Final orbit' COPIED from element 3 by 1,admin
+2020-06-19 14:31:47  Variable 18,74'Height' COPIED from other element by 1,admin. Value: 36000
+2020-06-19 14:31:47  Variable 18,75'e' COPIED from other element by 1,admin. Value: 0.05
+2020-06-19 14:31:47  Variable 18,76'i' COPIED from other element by 1,admin. Value: 0
+2020-06-19 14:31:47  Variable 18,77'time' COPIED from other element by 1,admin. Value: 75204000000

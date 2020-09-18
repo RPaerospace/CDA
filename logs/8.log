@@ -1,0 +1,11 @@
+2020-07-07 11:47:50  Mission 8,'Simple Mission' CREATED by 1,admin. Description: 'Only 2 subsystems'.
+2020-07-07 11:48:15  Subsystem 25,'Mission Analysis' CREATED for 1,admin. Description: ''.
+2020-07-07 11:48:24  Subsystem 26,'Propulsion' CREATED for 2,admin2. Description: ''.
+2020-07-07 11:49:00  Element 36,'Parking Orbit' CREATED by 1,admin
+2020-07-07 11:49:26  Variable 36,78,'h' CREATED by 1,admin. Value: 350
+2020-07-07 11:50:26  Element 37,'GTO' CREATED by 1,admin
+2020-07-07 11:53:29  Variable 37,79,'a' CREATED by 1,admin. Value: 25000
+2020-07-07 11:53:55  Variable 36,80,'i' CREATED by 1,admin. Value: 35
+2020-07-07 11:55:02  Element 38,'Impulse 1' CREATED by 1,admin
+2020-07-07 11:55:40  Element 39,'Ionic engine' IMPORTED to subsystem 26,'Propulsion' from Element 17,'Ionic engine'
+2020-07-07 11:55:41  Variable 39,81,'Dv_max in manoeuvre' IMPORTED to subsystem 26,'Propulsion'from Variable 17,25

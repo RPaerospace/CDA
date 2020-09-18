@@ -1,0 +1,32 @@
+2020-07-18 13:26:45  Mission 11,'Mission 1' CREATED by 5,usuario1. Description: 'Description.
+'.
+2020-07-18 13:27:02  Subsystem 32,'Mission Analysis' CREATED for 5,usuario1. Description: ''.
+2020-07-18 13:27:34  Element 52,'Atmosphere' IMPORTED to subsystem 32,'Mission Analysis' from Element 19,'Atmosphere'
+2020-07-18 13:27:34  Variable 52,106,'Ballistic coef' IMPORTED to subsystem 32,'Mission Analysis'from Variable 19,31
+2020-07-18 13:27:34  Element 53,'Deviations parameter' IMPORTED to subsystem 32,'Mission Analysis' from Element 21,'Deviations parameter'
+2020-07-18 13:27:34  Variable 53,107,'a' IMPORTED to subsystem 32,'Mission Analysis'from Variable 21,33
+2020-07-18 13:27:34  Variable 53,108,'e' IMPORTED to subsystem 32,'Mission Analysis'from Variable 21,34
+2020-07-18 13:27:34  Variable 53,109,'i' IMPORTED to subsystem 32,'Mission Analysis'from Variable 21,35
+2020-07-18 13:27:34  Variable 53,110,'w' IMPORTED to subsystem 32,'Mission Analysis'from Variable 21,36
+2020-07-18 13:27:34  Variable 53,111,'omega' IMPORTED to subsystem 32,'Mission Analysis'from Variable 21,37
+2020-07-18 13:27:34  Element 54,'Parking Orbit' IMPORTED to subsystem 32,'Mission Analysis' from Element 36,'Parking Orbit'
+2020-07-18 13:27:35  Variable 54,112,'h' IMPORTED to subsystem 32,'Mission Analysis'from Variable 36,78
+2020-07-18 13:27:35  Variable 54,113,'i' IMPORTED to subsystem 32,'Mission Analysis'from Variable 36,80
+2020-07-18 13:27:35  Element 55,'GTO' IMPORTED to subsystem 32,'Mission Analysis' from Element 37,'GTO'
+2020-07-18 13:27:35  Variable 55,114,'a' IMPORTED to subsystem 32,'Mission Analysis'from Variable 37,79
+2020-07-18 13:28:14  Subsystem 33,'Propulsion' IMPORTED to mission 11,'Mission 1' from Subsystem 18,'Propulsion'
+2020-07-18 13:28:14      Element 33,56,'Parameters' IMPORTED to mission 11,'Mission 1'from subsystem 18,Propulsion
+2020-07-18 13:28:14          Variable 56,115,'Fuel mass' IMPORTED to subsystem 33,'Propulsion'from Variable 16,21
+2020-07-18 13:28:14          Variable 56,116,'Total Delta_V' IMPORTED to subsystem 33,'Propulsion'from Variable 16,22
+2020-07-18 13:28:14      Element 33,57,'Ionic engine' IMPORTED to mission 11,'Mission 1'from subsystem 18,Propulsion
+2020-07-18 13:28:14          Variable 57,117,'Dv_max in manoeuvre' IMPORTED to subsystem 33,'Propulsion'from Variable 17,25
+2020-07-18 13:37:34  Subsystem 33 CHANGED USER to 4,user2.
+2020-07-18 13:39:10  Subsystem 33 CHANGED USER to 5,usuario1.
+2020-07-18 13:39:26  Subsystem 33,'Propulsion' DELETED by manager.
+2020-07-18 13:39:45  Subsystem 34,'Propulsion' IMPORTED to mission 11,'Mission 1' from Subsystem 18,'Propulsion'
+2020-07-18 13:39:45      Element 34,58,'Parameters' IMPORTED to mission 11,'Mission 1'from subsystem 18,Propulsion
+2020-07-18 13:39:45          Variable 58,118,'Fuel mass' IMPORTED to subsystem 34,'Propulsion'from Variable 16,21
+2020-07-18 13:39:45          Variable 58,119,'Total Delta_V' IMPORTED to subsystem 34,'Propulsion'from Variable 16,22
+2020-07-18 13:39:45      Element 34,59,'Ionic engine' IMPORTED to mission 11,'Mission 1'from subsystem 18,Propulsion
+2020-07-18 13:39:45          Variable 59,120,'Dv_max in manoeuvre' IMPORTED to subsystem 34,'Propulsion'from Variable 17,25
+2020-07-18 13:39:53  Subsystem 34 CHANGED USER to 4,user2.

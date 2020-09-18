@@ -1,0 +1,69 @@
+2020-06-24 10:41:49  Subsystem 21,'Structure & Config' CREATED for 1,admin. Description: 'Structure and Configuration'.
+2020-06-24 10:56:33  Element 22,'General parameters' CREATED by 1,admin
+2020-06-24 10:57:03  Variable 22,38,'Yield FoS' CREATED by 1,admin. Value: 1
+2020-06-24 10:57:17  Variable 22,39,'UTS' CREATED by 1,admin. Value: 1
+2020-06-24 10:57:43  Variable 22,40,'ax_LF' CREATED by 1,admin. Value: 1
+2020-06-24 10:57:58  Variable 22,41,'lat_LF' CREATED by 1,admin. Value: 1
+2020-06-24 10:59:04  Element 23,'Dimensions' CREATED by 1,admin
+2020-06-24 10:59:22  Variable 23,42,'L' CREATED by 1,admin. Value: 0.5
+2020-06-24 10:59:35  Variable 23,43,'W' CREATED by 1,admin. Value: 1
+2020-06-24 10:59:53  Element 23,'Dimensions' EDITED by 1,admin
+2020-06-24 11:00:11  Variable 23,44,'H' CREATED by 1,admin. Value: 0.5
+2020-06-24 11:00:30  Variable 23,45,'t' CREATED by 1,admin. Value: 0.001
+2020-06-24 11:01:08  Variable 22,46,'f_ax_min' CREATED by 1,admin. Value: 20
+2020-06-24 11:01:50  Variable 22,47,'f_lat_min' CREATED by 1,admin. Value: 20000
+2020-06-24 11:02:33  Element 24,'Masses and structure config' CREATED by 1,admin
+2020-06-24 11:02:51  Variable 24,48,'othre masses' CREATED by 1,admin. Value: 2
+2020-06-24 11:03:51  Variable 24,49,'N of stringers L' CREATED by 1,admin. Value: 2
+2020-06-24 11:03:59  Variable 24,48,'other masses' EDITED by 1,admin
+2020-06-24 11:04:21  Variable 24,50,'N of stringers W' CREATED by 1,admin. Value: 3
+2020-06-24 11:04:43  Variable 24,51,'Stringers in corners' CREATED by 1,admin. Value: 1
+2020-06-24 11:06:10  Variable 24,52,'Area of L stringers' CREATED by 1,admin. Value: 0.001
+2020-06-24 11:06:27  Variable 24,53,'Area of W stringers' CREATED by 1,admin. Value: 0.001
+2020-06-24 11:24:01  Variable 24,54,'Area of corner stringers' CREATED by 1,admin. Value: 0.001
+2020-06-24 11:24:18  Variable 24,55,'Payload mass' CREATED by 1,admin. Value: 5
+2020-06-24 11:24:24  Variable 24,55,'Payload' value UPDATED by 1,admin. Value: 0.5
+2020-06-24 11:24:29  Variable 24,55,'Payload' value UPDATED by 1,admin. Value: 1
+2020-06-24 11:51:24  Variable 24,56,'Area of L stringers' CREATED by 1,admin. Value: 0.001
+2020-06-24 11:51:46  Variable 24,52,'Area of L stringers' EDITED by 1,admin
+2020-06-24 11:51:53  Variable 24,53,'Area of W stringers' EDITED by 1,admin
+2020-06-24 11:52:18  Variable 24,54,'Area of corner stringers' EDITED by 1,admin
+2020-06-24 11:52:34  Variable 24,56,'Area of L stringers' REQUESTED DELETION by 1,admin
+2020-06-24 11:52:38  Variable 24,55,'Payload' EDITED by 1,admin
+2020-06-24 11:53:13  Variable 24,48,'other masses' EDITED by 1,admin
+2020-06-24 11:54:29  Variable 24,49,'N of L stringers' EDITED by 1,admin
+2020-06-24 11:54:35  Variable 24,50,'N of W stringers' EDITED by 1,admin
+2020-06-24 11:54:47  Variable 24,51,'Stringers in corner' EDITED by 1,admin
+2020-06-24 11:56:29  Variable 24,57,'Skin area' CREATED by 1,admin. Value: 0
+2020-06-24 11:57:42  Element 25,'Masses' CREATED by 1,admin
+2020-06-24 11:58:11  Variable 25,58,'Total mass' CREATED by 1,admin. Value: 
+2020-06-24 11:59:11  Variable 20,59,'Payload mass' CREATED by 1,admin. Value: 2
+2020-06-24 11:59:38  Element 26,'Intrument1' CREATED by 1,admin
+2020-06-24 11:59:58  Variable 26,60,'mass' CREATED by 1,admin. Value: 0.5
+2020-06-24 12:19:21  Mission 6,'Mission Template' STARTED NEW ISSUE: v. 2.
+2020-06-24 12:22:15  Mission 6,'Mission Template' STARTED NEW ISSUE: v. 3.
+2020-06-29 09:20:11  Variable 56 DELETED by 1,admin.
+2020-07-02 10:33:45  Subsystem 18 CHANGED USER to 1,admin.
+2020-07-02 10:33:48  Subsystem 19 CHANGED USER to 1,admin.
+2020-07-07 11:33:31  Subsystem 18 CHANGED USER to 2,admin2.
+2020-07-07 11:33:41  Subsystem 21 CHANGED USER to 2,admin2.
+2020-07-19 17:35:44  Subsystem 19 CHANGED USER to 2,admin2.
+2020-07-19 17:35:47  Subsystem 20 CHANGED USER to 2,admin2.
+2020-07-19 17:39:17  Element 19,'Atmosphere' REQUESTED DELETION by 1,admin
+2020-07-19 17:39:20  Element 19,'Atmosphere' CANCEL DELETION REQUEST by 1,admin
+2020-07-19 17:39:21  Variable 19,31,'Ballistic coef' REQUESTED DELETION by 1,admin
+2020-07-19 18:45:29  Subsystem 18 CHANGED USER to 1,admin.
+2020-07-19 18:45:34  Variable 17,25,'Dv_max in manoeuvre' REQUESTED DELETION by 1,admin
+2020-07-19 18:45:39  Element 17,'Ionic engine' REQUESTED DELETION by 1,admin
+2020-07-19 18:45:45  Subsystem 18 CHANGED USER to 2,admin2.
+2020-07-19 18:46:32  Subsystem 18 CHANGED USER to 1,admin.
+2020-07-19 18:46:50  Element 17,'Ionic engine' CANCEL DELETION REQUEST by 1,admin
+2020-07-19 18:48:22  Subsystem 18 CHANGED USER to 2,admin2.
+2020-07-19 19:59:15  Variable 19,31,'Ballistic coef' REQUESTED DELETION by 1,admin
+2020-07-20 10:06:59  Variable 15,163,'e' CREATED by 1,admin. Value: 0
+2020-07-20 10:07:11  Variable 15,164,'omega' CREATED by 1,admin. Value: 
+2020-07-20 10:07:24  Variable 15,165,'a' CREATED by 1,admin. Value: 
+2020-07-20 10:07:59  Variable 15,166,'w' CREATED by 1,admin. Value: 
+2020-07-20 10:24:23  Subsystem 18 CHANGED USER to 1,admin.
+2020-07-20 10:29:52  Element 16,'Parameters' EDITED by 1,admin
+2020-07-20 11:08:52  Variable 16,21,'Fuel' value UPDATED by 1,admin. Value: 120
